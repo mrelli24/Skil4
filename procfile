@@ -1,1 +1,1 @@
-web: Verk4.py $port
+web: python Verk4.py $port
